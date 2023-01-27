@@ -93,6 +93,13 @@ main section.categories-show {
           color: white;
         }
       }
+      #sold-out {
+        min-width: 110px;
+        padding-left: 1em;
+        padding-right: 1em;
+        background-color: lightcoral;
+        color: white;
+      }
     }
   }
 }
