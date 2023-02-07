@@ -2,6 +2,16 @@
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
+## Screenshots
+
+## Screenshots
+
+!["home page"](https://github.com/iliacodes/Jungle-rails/blob/master/docs/Home-page.png)
+!["register!"](https://github.com/iliacodes/Jungle-rails/blob/master/docs/register-page.png)
+!["adding plant to cart"](https://github.com/iliacodes/Jungle-rails/blob/master/docs/adding-Void-Fennel.png)
+!["my cart"](https://github.com/iliacodes/Jungle-rails/blob/master/docs/shopping-cart.png)
+!["order placed"](https://github.com/iliacodes/Jungle-rails/blob/master/docs/order-placed.png)
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
