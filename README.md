@@ -29,3 +29,21 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+
+## Testing
+
+To run cypress tests in the test database, run the test server using:
+
+RAILS_ENV=test rails s
+
+Then use:
+
+bin/rails cypress:run
+
+To run rspec tests you can use the devlopment server:
+
+bin/rails s -b 0.0.0.0
+
+And run:
+
+bundle exec rspec --format documentation
